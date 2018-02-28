@@ -1,0 +1,5 @@
+C:\Users\phine\Documents\Projects\TAKB\TAKB\bin\Debug\TAKB.exe
+C:\Users\phine\Documents\Projects\TAKB\TAKB\bin\Debug\TAKB.pdb
+C:\Users\phine\Documents\Projects\TAKB\TAKB\obj\x86\Debug\TAKB.csprojResolveAssemblyReference.cache
+C:\Users\phine\Documents\Projects\TAKB\TAKB\obj\x86\Debug\TAKB.exe
+C:\Users\phine\Documents\Projects\TAKB\TAKB\obj\x86\Debug\TAKB.pdb

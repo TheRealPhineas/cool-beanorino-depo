@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Timers;
 
 /*phins cheat sheat
  one = means assign, two == means check if equal to each other
@@ -44,7 +43,8 @@ namespace TAKB {
 			 		 */
 
 						num01 = Convert.ToInt32 (Console.ReadLine());
-						
+		
+			
 						//Getting second number 
 						Console.Write ("Well I need a second one dummy: ");
 
@@ -211,4 +211,5 @@ namespace TAKB {
 
 
 //===========================KeyPressInt============================\\
+
 
